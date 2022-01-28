@@ -7,7 +7,11 @@ Here I will upload the functions that I usually add to my console profiles.
 ```Bash
 ### Structured and full info LS
 alias lsa="pwd; ls -lha"
+
+### Copy current directory to clipboard | Only tried on WSL2 Ubuntu. Probably works with xclip on a native linux
+alias pwdc="echo cd $(pwd) | clip.exe" 
 ```
+
 
 ---
 
