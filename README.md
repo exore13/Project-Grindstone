@@ -12,9 +12,9 @@
     <strong>Enjoy this madness</strong>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.dtanase.com/">My website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/exore13/Project-Grindstone/issues/new">Report Bug</a>
   </p>
 
 </div>
