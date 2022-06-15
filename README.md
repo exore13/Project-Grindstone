@@ -2,10 +2,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
-    <img src="https://s2.svgbox.net/octicons.svg?ic=gear&color=000" alt="Gear image as logo" width="80" height="80">
-  </a>
+    <img src="https://s2.svgbox.net/octicons.svg?ic=gear&color=14d1d1" alt="Gear image as logo" width="80" height="80">
 
   <h3 align="center">Project Grindstone</h3>
 
