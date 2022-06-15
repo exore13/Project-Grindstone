@@ -1,6 +1,4 @@
-# Shell extras
-
-Here I will upload the functions that I usually add to my console profiles.
+# Console Profile Extras
 
 ## Bash
 
@@ -8,10 +6,9 @@ Here I will upload the functions that I usually add to my console profiles.
 ### Structured and full info LS
 alias lsa="pwd; ls -lha"
 
-### Copy current directory to clipboard | Only tried on WSL2 Ubuntu. Probably works with xclip on a native linux
+### Copy current directory to clipboard | Only tried on WSL2 Ubuntu. Probably works using xclip on native linux
 alias pwdc="echo cd $(pwd) | clip.exe" 
 ```
-
 
 ---
 
@@ -33,6 +30,7 @@ Function lsa {
     Get-ChildItem -Force | Select-Object Mode, LastWriteTime, @{Name="Size";Expression={Format-FileSize($_.Length)}}, Name
 }
 
+
 ### Copy current directory to clipboard | Allows fast cd with multiple terminals
 Function pwdc {
     $t = pwd
@@ -40,7 +38,8 @@ Function pwdc {
     Write-Host "Path copied to clipboard"
 }
 
-### Change directory to your main repos folder
+
+### Fast directory jump
 Function cdgit {
     cd 'D:\AA - Github' # Replace with your own main repos folder
 }
