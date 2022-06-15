@@ -23,9 +23,9 @@
 <ul>
   <li><a href="projects/Arduino%20IoT%20Utilities">Arduino IoT Utilities</a></li>
   <li><a href="projects/Console%20Profile%20Extras">Console Profile Extras</a></li>
-  <li><a href="projects/cpii/readme.md">Copy II</a></li>
-  <li><a href="projects/hadoop_program_compile/readme.md">Hadoop program wrapper</a></li>
-  <li><a href="projects/Minecraft%20Rcon%20Helper/readme.md">Minecraft RCON Helper</a></li>
+  <li><a href="projects/cpii">Copy II</a></li>
+  <li><a href="projects/hadoop_program_compile">Hadoop program wrapper</a></li>
+  <li><a href="projects/Minecraft%20Rcon%20Helper">Minecraft RCON Helper</a></li>
 </ul>
 
 
