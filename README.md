@@ -22,13 +22,12 @@
 <!-- TABLE OF CONTENTS -->
 <ul>
   <li><a href="projects/Arduino%20IoT%20Utilities">Arduino IoT Utilities</a></li>
+  <li><a href="projects/Concurrent%20Directory%20Copy">Concurrent Directory Copy</a></li>
   <li><a href="projects/Console%20Profile%20Extras">Console Profile Extras</a></li>
   <li><a href="projects/cpii">Copy II</a></li>
   <li><a href="projects/hadoop_program_compile">Hadoop program wrapper</a></li>
   <li><a href="projects/Minecraft%20Rcon%20Helper">Minecraft RCON Helper</a></li>
 </ul>
-
-
 
 <!-- Links and Images-->
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
